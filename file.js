@@ -1,1 +1,4 @@
-alert("Hi");
+
+$(document).ready(function(){
+  alert("Hi");
+});
